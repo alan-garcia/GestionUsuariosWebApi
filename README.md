@@ -1,6 +1,13 @@
-# GestionUsuariosWebApi
+# Gestion de usuarios (API Rest)
 
-Pasos para la ejecución del proyecto:
+**Web API** que realiza un **CRUD** de gestión de usuarios, desarrollado con:
+- **Aplicación web ASP.NET (.Net Framework 4.7)**
+- **Entity Framework 6.0**
+- **Microsoft SQL Server 2019**
+- API REST documentada con la herramienta **Swagger**.
+
+
+## Pasos para la ejecución del proyecto
 
 **1.** La persistencia de los usuarios se ha realizado mediante **SQL Server 2019**, por tanto, habrá que ejecutar el script de la base de datos ubicado en "GestionUsuariosWebApi/ScriptsBBDD/" de este proyecto.
 
